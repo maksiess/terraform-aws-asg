@@ -1,4 +1,4 @@
-# terraform-iaac-2020
+In order to create Auto Scaling Group, please follow the instructions below: 
 
 1. Create file called module.tf
 2. Copy paste the following code 
